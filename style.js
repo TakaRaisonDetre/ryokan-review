@@ -47,6 +47,13 @@ export const gs = StyleSheet.create({
         color: colors.text,
         fontSize: 25
     },
+    subTitle:{
+      fontWeight:"600",
+      textTransform:"uppercase",
+      color:"rgba(255, 255, 255, 0.6)",
+      fontSize: 15,
+      letterSpacing: 1
+    },
     absoluteFull:{
         position: "absolute",
         top:0,
